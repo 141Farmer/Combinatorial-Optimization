@@ -92,7 +92,7 @@ void kruskal(vector<pair<pair<string, string>, int>> &edges)
 
 int main()
 {
-    if (freopen("CO_lab_final_input.txt", "r", stdin) == NULL)
+    if (freopen("lab_final_input.txt", "r", stdin) == NULL)
     {
         cout << "Cannot open file\n";
         return 0;
